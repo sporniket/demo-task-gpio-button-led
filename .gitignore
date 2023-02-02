@@ -1,0 +1,18 @@
+# Build dirs
+build
+
+# Temporary stuff
+tmp
+tmp.*
+
+# esp32 'old' config file
+*.old
+
+# Compiled Python bytecode
+*.py[cod]
+
+# PlatformIO stuff
+.pio
+
+# VSCode stuff
+.vscode
