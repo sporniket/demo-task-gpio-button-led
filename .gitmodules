@@ -1,0 +1,15 @@
+[submodule "lib/GpioAbstractionLayer"]
+	path = lib/GpioAbstractionLayer
+	url = https://github.com/sporniket/GpioAbstractionLayer
+[submodule "lib/FeedbackLed"]
+	path = lib/FeedbackLed
+	url = https://github.com/sporniket/FeedbackLed
+[submodule "lib/AnimatedValues"]
+	path = lib/AnimatedValues
+	url = https://github.com/sporniket/AnimatedValues
+[submodule "lib/GpioAbstractionLayer-espressif32-espidf"]
+	path = lib/GpioAbstractionLayer-espressif32-espidf
+	url = https://github.com/sporniket/GpioAbstractionLayer-espressif32-espidf
+[submodule "lib/Task-espressif32-espidf"]
+	path = lib/Task-espressif32-espidf
+	url = https://github.com/sporniket/Task-espressif32-espidf
