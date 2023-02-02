@@ -13,3 +13,6 @@
 [submodule "lib/Task-espressif32-espidf"]
 	path = lib/Task-espressif32-espidf
 	url = https://github.com/sporniket/Task-espressif32-espidf
+[submodule "lib/InputButton"]
+	path = lib/InputButton
+	url = https://github.com/sporniket/InputButton
